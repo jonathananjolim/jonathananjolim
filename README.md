@@ -1,11 +1,11 @@
-# � Olá, eu sou o Jonathan Anjolim
+# Olá, eu sou o Jonathan Anjolim meus nobres!
 
-Sou desenvolvedor com foco em Python, Blueprint da Unreal Engine 5 e PHP. Grande entusiasta de Inteligência Artificial, busco constantemente inovar e aprender novas tecnologias.
+Nos jogos sou conhecido como "Ichiby", hoje sou desenvolvedor com foco em Python e PHP, de onde tiro meu dinheiro para pagar a contas, e a minha paixão pelo desenvolvimento de jogos explodiu de fato em 2019 com o advento da pandemia, onde comecei a focar grande parte dos meus estudos em Blueprints da Unreal Engine 4 e subsequentemente a atual Unreal Engine 5. Sou um grande entusiasta de Inteligência Artificial, nela eu busco constantemente inovar e aprender novas tecnologias, vai por mim, se você souber utilizar, o céu não é o limite!!
 
-**Principais destaques:**
-- � Desenvolvedor Python e PHP, com projetos privados na empresa onde atuo atualmente.
-- 🎮 Projetos em andamento com Unreal Engine 5, utilizando Blueprints para criação de experiências interativas.
-- 🤖 Apaixonado por IA, sempre explorando soluções inteligentes e automações.
-- � Motivado por desafios, evolução contínua e colaboração com a comunidade tech.
+Meus destaques:
+Desenvolvedor Python e PHP, com projetos privados na empresa onde atuo atualmente.
+Desenvolvedor Unreal Engine 5, utilizando Blueprints.
+Apaixonado por IA, sempre explorando soluções inteligentes e automações.
+Motivado por desafios, evolução contínua e colaboração com a comunidade tech.
 
 Sinta-se à vontade para explorar meus repositórios e conectar-se comigo!
