@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://github.com/jonathananjolim">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=7551&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0" width="100%"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=7551d3" width="100%"/>
   </a>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Jonathan+Anjolim!+👋;Desenvolvedor+Python+%26+PHP+💻;Dev+Unreal+Engine+5+🎮;Entusiasta+de+IA+🤖" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Jonathan+Anjolim!+%F0%9F%91%8B;Desenvolvedor+Python+%F0%9F%92%BB;Dev+Unreal+5+%7C+Unity+6+%7C+Godot+4+%F0%9F%8E%AE;Entusiasta+de+IA+%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 </div>
 
@@ -88,5 +88,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7551&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7551d3&section=footer" width="100%"/>
 </div>
